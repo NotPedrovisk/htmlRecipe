@@ -1,0 +1,29 @@
+.title{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color:#b3cde4
+}
+
+img{
+    margin-left: 40%;
+}
+
+p, li{
+    text-align: center;
+    color: #eef3f9
+}
+
+.list{
+    display:table;
+    margin:auto;
+}
+
+body{
+    background-color:#001b2e;
+}
+a:link{
+    color:green
+}
+a:visited{
+    color:#F9F4EE
+}
