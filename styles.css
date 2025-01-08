@@ -1,7 +1,8 @@
 .title{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    color:#b3cde4
+    color:#b3cde4;
+    font-size:40px
 }
 
 img{
@@ -10,7 +11,8 @@ img{
 
 p, li{
     text-align: center;
-    color: #eef3f9
+    color: #eef3f9;
+    font-size: 20px;
 }
 
 .list{
