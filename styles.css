@@ -2,7 +2,12 @@
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
     color:#b3cde4;
-    font-size:40px
+    font-size:40px;
+    border:double 8px;
+    padding: 5px 10px 5px 10px;
+    margin: 30px 300px;
+    background-color:#010f1a;
+
 }
 
 img{
